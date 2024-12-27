@@ -8,10 +8,10 @@ By employing CGA, I developed a pipeline and a CGA-specific autoencoder capable 
 
 ## Key Highlights
 
-- **Affiliation**: Yale University, Department of Statistics and Data Science
+- **Affiliation**: Yale University, Department of Computer Science, Apollo Lab
 - **Goal**: Explore Conformal Geometric Algebra (CGA) as a unified mathematical framework for modeling and reconstructing human motion.
 - **Result**: Developed a CGA-specific autoencoder to process motion data encoded as multivectors, achieving high accuracy in reconstructing complex, high-speed motions like a hockey slapshot.
-- **Ongoing Research**: This work directly informs ongoing research into robotics simulations using CGA for advanced motion modeling applications.
+- **Ongoing Research**: This work directly informs my ongoing research into robotics simulations using CGA for advanced motion modeling applications.
 
 ## Links
 
