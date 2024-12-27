@@ -16,7 +16,7 @@ By employing CGA, I developed a pipeline and a CGA-specific autoencoder capable 
 ## Links
 
 - **[Full Paper](./docs/Final_Thesis.pdf)**: A detailed explanation of the methodology, results, and future directions of the project.
-- **[Research Poster](./docs/Research_Poster.pdf)**: A concise visual summary of the research.
+- **[Research Poster](./docs/S&DS_THESIS_FINAL.pdf)**: A concise visual summary of the research.
 
 ## License
 
